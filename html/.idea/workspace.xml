@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a298257-6c02-4950-8e22-5b7ff8365bb8" name="Default Changelist" comment="Default Changelist">
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/assets/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/assets/css/bootsnav.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/assets/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/assets/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/assets/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/assets/js/bootsnav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/assets/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/assets/js/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/assets/js/jquery.sticky.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/assets/logo/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/css/NativeShare.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/css/chongzhi.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/css/info.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/css/jszz.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/css/mg.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/css/top.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/css/tz.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/ad-001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/daili.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/icon-body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/icon-hd-001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/icon-hd-002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/icon-hd-003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/icon-hd-004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/icon-hd-005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/icon-hd-006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/icon-hd-007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/icon-hd-008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/icon-hd-009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/icon-hd-010.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/icon-hd-011.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/icon-hd-012.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/job-user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/logo-012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/not_tx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kangml_app/mode/user_info.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/line_kangml.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/line_kangml.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/qq_admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/admin/qq_admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/version.txt" beforeDir="false" afterPath="$PROJECT_DIR$/admin/version.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kangml_app/client.php" beforeDir="false" afterPath="$PROJECT_DIR$/kangml_app/client.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kangml_app/mode/all.php" beforeDir="false" afterPath="$PROJECT_DIR$/kangml_app/mode/all.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kangml_app/mode/bbs_view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kangml_app/mode/feed_back.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kangml_app/mode/gg_view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kangml_app/mode/info.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kangml_app/mode/llog.php" beforeDir="false" afterPath="$PROJECT_DIR$/kangml_app/mode/llog.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kangml_app/mode/log.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kangml_app/mode/theme.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/kangml_app/mode/top.php" beforeDir="false" afterPath="$PROJECT_DIR$/kangml_app/mode/top.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vpndata.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../vpndata.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/phpmyadmin/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/google/recaptcha" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/samyoul/u2f-php-server" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/twig-i18n-extension" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/motranslator" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/williamdes/mariadb-mysql-kbs" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/sql-parser" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/pragmarx/google2fa" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/phpmyadmin/shapefile" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/pragmarx/google2fa-qrcode" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/dasprid/enum" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/composer" />
+      <path value="$PROJECT_DIR$/phpmyadmin/vendor/tecnickcom/tcpdf" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1qrthPmc8ox6q1McJ9xxpxuyW6R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/kangml_app/mode" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kangml_app/mode" />
+      <recent name="$PROJECT_DIR$/kangml_app" />
+      <recent name="$PROJECT_DIR$/admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a298257-6c02-4950-8e22-5b7ff8365bb8" name="Default Changelist" comment="" />
+      <created>1617849655818</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617849655818</updated>
+      <workItem from="1617849657555" duration="343000" />
+      <workItem from="1617850015022" duration="8996000" />
+      <workItem from="1617936417747" duration="109000" />
+      <workItem from="1617936589994" duration="11517000" />
+      <workItem from="1618206285643" duration="71953000" />
+      <workItem from="1618626200911" duration="6226000" />
+      <workItem from="1618635570438" duration="9504000" />
+      <workItem from="1618733393413" duration="6294000" />
+      <workItem from="1618822894997" duration="138455000" />
+      <workItem from="1619437114283" duration="77316000" />
+      <workItem from="1620398265779" duration="26178000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
